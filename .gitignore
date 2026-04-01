@@ -5,7 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+**/.ipynb_checkpoints
 
 # Virtual environments
 .venv
 shell.py
+*.swp
